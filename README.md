@@ -7,6 +7,8 @@ Node module for accessing the Crowdin API
 
 This is an unofficial API client library. Crowdin and the Crowdin API are the property of Crowdin, LLC.
 
+Also, thats not my package, the original one is https://www.npmjs.com/package/crowdin , but the owner account got deleted.
+
 ## Install
 
 ```bash
